@@ -25,7 +25,7 @@ git clone https://github.com/hunterSH7/huntersh7cve.git
 cd huntersh7cve
 
 # Make the script executable
-chmod +x huntersh7cve/CVE Exploit hunter tool.py
+chmod +x huntersh7cve/CVE\ Exploit\ hunter\ tool.py
 
 # Install the required dependencies
 pip install .
