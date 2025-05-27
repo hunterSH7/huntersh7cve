@@ -43,13 +43,17 @@ Ultimate CVE Hunter Tool
 
 options:
   -h, --help            Show this help message and exit
-  -d DOMAIN, --domain DOMAIN
-                        IP address or domain to scan
+  
+  -d DOMAIN, --domain DOMAIN   IP address or domain to scan
+  
   -f FILE, --file FILE  File containing list of domains/IPs to scan
-  -o OUTPUT, --output OUTPUT
-                        Output file to store the results (e.g., result.txt)
+ 
+  -o OUTPUT, --output OUTPUT Output file to store the results (e.g., result.txt)
+  
   --export {json,csv}   Export results in JSON/CSV format
+  
   --interactive         Run in interactive mode
+
 Examples
 Scan a Single Domain
 huntersh7cve -d example.com 
