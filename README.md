@@ -77,3 +77,4 @@ Twitter:
 GitHub Repository: huntersh7cve
 
 For queries or issues, contact @Shubhamrooter on GitHub. Special thanks to @mr-kasim-mehar for the support
+
