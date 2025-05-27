@@ -30,11 +30,12 @@ Follow these steps to install CVE Hunter:
 Usage Once installed, use the following commands to run CVE Hunter:
 
 Basic Help Command
+
 ┌──(rooter㉿rooter)-[/huntersh7cve]
 
 └─$ huntersh7cve -h
+
 Output Example
-image image
 
 Command-Line Options
 usage: huntersh7cve [-h] [-d DOMAIN] [-f FILE] [-o OUTPUT] [--export {json,csv}] [--interactive]
@@ -56,29 +57,37 @@ options:
 
 Examples
 Scan a Single Domain
+
 huntersh7cve -d example.com 
+
 Scan Multiple Domains from a File
+
 huntersh7cve -f domains.txt -o result.txt --export json
+
 Export Results to JSON
+
 huntersh7cve -d example.com --export json -o results.json
+
 Run in Interactive Mode
+
 huntersh7cve --interactive
+
 Contributions
+
 CVE Hunter is open for contributions! Feel free to submit issues, feature requests, or pull requests to help improve the tool.
 
 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+Contact : 
 Connect with huntersh7 via:
 
 Email: cs6267231@gmail.com
 
-Discord: 
-
-Twitter: 
+Discord: hunter.sh7cve
 
 GitHub Repository: huntersh7cve
 
-For queries or issues, contact @Shubhamrooter on GitHub. Special thanks to @mr-kasim-mehar for the support
+For queries or issues, contact @hunter.sh7cve discord
 
