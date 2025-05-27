@@ -31,6 +31,7 @@ Usage Once installed, use the following commands to run CVE Hunter:
 
 Basic Help Command
 ┌──(rooter㉿rooter)-[/huntersh7cve]
+
 └─$ huntersh7cve -h
 Output Example
 image image
