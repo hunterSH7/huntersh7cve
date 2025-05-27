@@ -30,7 +30,8 @@ chmod +x huntersh7cve/CVE\ Exploit\ hunter\ tool.py
 # Install the required dependencies
 pip install .
 
-![image](https://github.com/user-attachments/assets/8c9d8232-a11f-4675-9663-a8bea77589b7)
+![image](https://github.com/user-attachments/assets/3b6497da-2ff6-40dc-bb64-0021f505172e)
+
 
 🚀 Usage
 Once installed, use the following command to get started:
