@@ -12,15 +12,19 @@ Installation
 Follow these steps to install CVE Hunter:
 
 ┌──(rooter㉿rooter)-[/huntersh7cve]
+
 └─$ git clone https://github.com/hunterSH7/huntersh7cve.git
 
 ┌──(rooter㉿rooter)-[/tmp/huntersh7cve]
+
 └─$ cd huntersh7cve
 
 ┌──(rooter㉿rooter)-[/huntersh7cve]
+
 └─$ chmod +x huntersh7cve/CVE Exploit hunter tool.py
 
 ┌──(rooter㉿rooter)-[/huntersh7cve]
+
 └─$ pip install .
 
 Usage Once installed, use the following commands to run CVE Hunter:
@@ -64,8 +68,11 @@ Contact
 Connect with huntersh7 via:
 
 Email: cs6267231@gmail.com
+
 Discord: 
+
 Twitter: 
+
 GitHub Repository: huntersh7cve
 
 For queries or issues, contact @Shubhamrooter on GitHub. Special thanks to @mr-kasim-mehar for the support
