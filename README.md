@@ -7,6 +7,7 @@ Scan single or multiple domains/IP addresses.
 Export results in JSON or CSV format.
 Interactive mode for a better user experience.
 Easy-to-use CLI interface.
+
 Installation
 Follow these steps to install CVE Hunter:
 
@@ -21,8 +22,8 @@ Follow these steps to install CVE Hunter:
 
 ┌──(rooter㉿rooter)-[/huntersh7cve]
 └─$ pip install .
-Usage
-Once installed, use the following commands to run CVE Hunter:
+
+Usage Once installed, use the following commands to run CVE Hunter:
 
 Basic Help Command
 ┌──(rooter㉿rooter)-[/huntersh7cve]
